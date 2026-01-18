@@ -1,0 +1,1580 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "clubname": "Expensive FC",
+      "clubLogo": "/assets/images/expensive fc.jpg",
+      "players": [
+        { "playerId": 101, "name": "Don Chris", "position": "Goalkeeper","clubId": 1,"Department": "", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 102, "name": "Ak", "position": "Defender","clubId": 1, "Department":"CVE", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 103, "name": "Jiggy", "position": "Defender","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 104, "name": "Deputy", "position": "Defender","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 105, "name": "K7", "position": "Defender","clubId": 1, "Department":"CVE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 106, "name": "Sylvester", "position": "Defender","clubId": 1, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 107, "name": "Vardy", "position": "Defender","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 108, "name": "Alvarez", "position": "Midfielder","clubId": 1, "Department":"EEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 109, "name": "Mafik", "position": "Midfielder","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 110, "name": "Richard", "position": "Midfielder","clubId": 1, "Department":"CVE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 111, "name": "Solo", "position": "Midfielder","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 112, "name": "Daniel", "position": "Midfielder","clubId": 1, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 113, "name": "Tootie", "position": "Midfielder","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 114, "name": "Viccy", "position": "Midfielder","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 115, "name": "Endurance", "position": "Forward","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 116, "name": "Kenneth", "position": "Forward","clubId": 1, "Department":"EEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 117, "name": "Micheal", "position": "Forward","clubId": 1, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 118, "name": "Ndola", "position": "Forward","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 119, "name": "Rapheal", "position": "Forward","clubId": 1, "Department":"CVE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 120, "name": "Szoboszlai", "position": "Forward","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 121, "name": "YDT", "position": "Forward","clubId": 1, "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 122, "name": "Rashford", "position": "Midfielder","clubId": 1, "Department":"MEE", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 123, "name": "Niyi", "position": "Goalkeeper","clubId": 1, "Department":"EEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }}  
+      ]
+    },
+    {
+      "id": 2,
+      "clubname": "Dreco United",
+      "clubLogo": "/assets/images/dreco united.jpg",
+      "players": [
+        { "playerId": 201, "name": "Coded", "position": "Defender","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 202, "name": "Da'Silva", "position": "Defender","clubId": 2, "Department":"CSC" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 203, "name": "Haywhy", "position": "Defender","clubId": 2, "Department":"CSC" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 204, "name": "Jadex", "position": "Defender","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 205, "name": "Olaoluwa", "position": "Defender","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 206, "name": "Sancho", "position": "Defender","clubId": 2, "Department":"CSC" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 207, "name": "Sunkanmi", "position": "Defender","clubId": 2, "Department":"CSC" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 208, "name": "Tbliss", "position": "Defender","clubId": 2, "Department":"CSC", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 209, "name": "Festus", "position": "Midfielder","clubId": 2, "Department":"CSC" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 210, "name": "Indy", "position": "Midfielder","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 211, "name": "Lexdiego", "position": "Midfielder","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 212, "name": "Rodri", "position": "Midfielder","clubId": 2, "Department":"EEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 213, "name": "Sleek", "position": "Midfielder","clubId": 2, "Department":"CSC" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 214, "name": "Tosin", "position": "Midfielder","clubId": 2, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 215, "name": "Daniel", "position": "Midfielder","clubId": 2 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 216, "name": "Chase", "position": "Forward","clubId": 2, "Department":"CSC" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 217, "name": "Elijah", "position": "Forward","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 218, "name": "Faruq", "position": "Forward","clubId": 2, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 219, "name": "Glorydon", "position": "Forward","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 220, "name": "Go_ddy", "position": "Forward","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 221, "name": "Merciboi", "position": "Forward","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 222, "name": "Muhammed", "position": "Forward","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 222, "name": "Ayomide", "position": "Forward","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 223, "name": "Emmanuel", "position": "Goalkeeper","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 224, "name": "Jubril", "position": "Midfielder","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 225, "name": "Seun", "position": "Midfielder","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 226, "name": "Ben", "position": "Midfielder","clubId": 2, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }} 
+      ]
+    },
+    {
+      "id": 3,
+      "clubname": "Empire FC",
+      "clubLogo":"/assets/images/empire fc.jpg",
+      "players": [
+        { "playerId": 301, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 302, "name": "Rokeeb", "position": "Defender","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 303, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 304, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 305, "name": "", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 306, "name": "","position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 307, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 308, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 309, "name": "Nath", "position": "Midfielder","clubId": 3, "Department":"ICH"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 310, "name": "Geshy", "position": "Midfielder","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 311, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 312, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 313, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 314, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 315, "name": "", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 316, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 317, "name": "Tenny Jay", "position": "Forward","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 318, "name": "Ayobami", "position": "Forward","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 319, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 320, "name": "", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 321, "name": "", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }}
+      ]
+    },
+    {
+      "id": 4,
+      "clubname": "Golden Arrows FC",
+      "clubLogo": "/assets/images/golden arrows.jpg",
+      "players": [
+        { "playerId": 401, "name": "Onapi", "position": "Goalkeeper","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 402, "name": "Swanky", "position": "Defender","clubId": 4, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 403, "name": "Olofe", "position": "Defender","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 404, "name": "Parker", "position": "Defender","clubId": 4, "Department":"MTH&STATS"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 405, "name": "Roboto", "position": "Defender","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 406, "name": "Joshua", "position": "Defender","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 407, "name": "", "position": "Goalkeeper","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 408, "name": "", "position": "Goalkeeper","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 409, "name": "Marvellous", "position": "Midfielder","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 410, "name": "Ogbon", "position": "Midfielder","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 411, "name": "HayJay", "position": "Midfielder","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 412, "name": "George", "position": "Midfielder","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 413, "name": "David", "position": "Midfielder","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 414, "name": "Olly", "position": "Defender","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 415, "name": "Nazario", "position": "Midfielder","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 416, "name": "Emmy DC", "position": "Midfielder","clubId": 4 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 417, "name": "Skhallon", "position": "Defender","clubId": 4 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 418, "name": "", "position": "Goalkeeper","clubId": 4 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 419, "name": "", "position": "Goalkeeper","clubId": 4, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 420, "name": "", "position": "Goalkeeper","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 421, "name": "Goke", "position": "Forward","clubId": 4, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 422, "name": "Jola", "position": "Forward","clubId": 4, "Department":"CSC"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 423, "name": "Calculus", "position": "Forward","clubId": 4, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 424, "name": "Costa", "position": "Forward","clubId": 4, "Department":"BCH"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 425, "name": "Tobi", "position": "Forward","clubId": 4, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }} 
+      ]
+    },
+    {
+      "id": 5,
+      "clubname": "Legend FC",
+      "clubLogo":"/assets/images/legends fc.jpg",
+      "players": [
+        { "playerId": 501, "name": "", "position": "Goalkeeper","clubId": 5, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 502, "name": "", "position": "Goalkeeper","clubId": 5, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 503, "name": "", "position": "Goalkeeper","clubId": 5, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 504, "name": "", "position": "Goalkeeper","clubId": 5, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 505, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 506, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 507, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 508, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 509, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 510, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 511, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 512, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 513, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 514, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 515, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 516, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 517, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 518, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 519, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 520, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 521, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 522, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 523, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 524, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 525, "name": "", "position": "Goalkeeper","clubId": 5 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }}  
+      ]
+    },
+    {
+      "id": 6,
+      "clubname": "Medstar FC",
+      "clubLogo": "/assets/images/medstar fc.jpg",
+      "players": [
+        { "playerId": 601, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 602, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 603, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 604, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 605, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 606, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 607, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 608, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 609, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 610, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 611, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 612, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 613, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 614, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 615, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 616, "name": "Erastus", "position": "Midfielder","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 617, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 618, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 619, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 620, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 621, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 622, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 623, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 624, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 625, "name": "", "position": "Goalkeeper","clubId": 6, "Department":""  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }}  
+      ]
+    },
+    {
+      "id": 7,
+      "clubname": "Rising Stars",
+      "clubLogo": "/assets/images/rising star.jpg",
+      "players": [
+        { "playerId": 701, "name": "Shittu", "position": "Goalkeeper","clubId": 7, "Department":"BCH"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 702, "name": "Success", "position": "Goalkeeper","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 703, "name": "Best", "position": "Defender","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 704, "name": "Buhari", "position": "Defender","clubId": 7 , "Department":"MEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 705, "name": "Daniel", "position": "Defender","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 706, "name": "Eniola", "position": "Defender","clubId": 7 , "Department":"BCH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 707, "name": "Jordan", "position": "Defender","clubId": 7, "Department":"BCH"  , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 708, "name": "Micheal", "position": "Defender","clubId": 7 , "Department":"EEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 709, "name": "Soft", "position": "Defender","clubId": 7 , "Department":"BCH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 710, "name": "Tommy", "position": "Defender","clubId": 7 , "Department":"BCH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 711, "name": "White", "position": "Defender","clubId": 7 , "Department":"BCH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 712, "name": "Zaddie", "position": "Defender","clubId": 7 , "Department":"BCH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 713, "name": "Zane", "position": "Defender","clubId": 7 , "Department":"CSC" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 714, "name": "Ayomide", "position": "Midfielder","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 715, "name": "Armyd", "position": "Midfielder","clubId": 7 , "Department":"BCH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 716, "name": "BOD", "position": "Midfielder","clubId": 7 , "Department":"BCH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 717, "name": "Hush", "position": "Midfielder","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 718, "name": "Makavelli", "position": "Midfielder","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 719, "name": "Roylee", "position": "Midfielder","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 720, "name": "Viera", "position": "Midfielder","clubId": 7 , "Department":"ICH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 721, "name": "Classic", "position": "Forward","clubId": 7 , "Department":"MTH&STATS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 722, "name": "Courage", "position": "Forward","clubId": 7 , "Department":"BCH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 723, "name": "Israel", "position": "Forward","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 724, "name": "Martial", "position": "Forward","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 725, "name": "Niphy", "position": "Forward","clubId": 7 , "Department":"ICH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},  
+        { "playerId": 726, "name": "Kenny", "position": "Midfielder","clubId": 7 , "Department":"MCB" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }} , 
+        { "playerId": 727, "name": "Timileyin", "position": "Forward","clubId": 7 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }}  
+      ]
+    },
+    {
+      "id": 8,
+      "clubname": "Strikers United",
+      "clubLogo":"/assets/images/strikers united.jpg",
+      "players": [
+        { "playerId": 801, "name": "Holy Jesus", "position": "Goalkeeper","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 802, "name": "Divine", "position": "Defender","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 803, "name": "Festus", "position": "Defender","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 804, "name": "Daniel", "position": "Defender","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 805, "name": "Dada", "position": "Defender","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 806, "name": "Fola", "position": "Defender","clubId": 8 , "Department":"CVE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 807, "name": "Rido Lee", "position": "Midfielder","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 808, "name": "Neeyee", "position": "Forward","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 809, "name": "Rahmon", "position": "Midfielder","clubId": 8 , "Department":"CVE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 810, "name": "Enzo", "position": "Midfielder","clubId": 8 , "Department":"ICH" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 811, "name": "Segun", "position": "Midfielder","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 812, "name": "Midex", "position": "Forward","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 813, "name": "Samuel", "position": "Forward","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 814, "name": "Bayo", "position": "Defender","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 815, "name": "Enny Jay", "position": "Defender","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 816, "name": "Stan", "position": "Forward","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 817, "name": "Teczy", "position": "Forward","clubId": 8 , "Department":"" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 818, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 819, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 820, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 821, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 822, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 823, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 824, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 825, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 826, "name": "", "position": "Goalkeeper","clubId": 8 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }}
+      ]
+    },
+    {
+      "id": 9,
+      "clubname": "Super Ballers FC",
+      "clubLogo": "/assets/images/super ballers.jpg",
+      "players": [
+        { "playerId": 901, "name": "Sunny Kay", "position": "Goalkeeper","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 902, "name": "Hommy", "position": "Defender","clubId": 9 , "Department":"BCH", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 903, "name": "Lateef", "position": "Defender","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 904, "name": "Ay Show", "position": "Defender","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 905, "name": "Van dijk", "position": "Defender","clubId": 9 , "Department":"CSC", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 906, "name": "Cantona", "position": "Defender","clubId": 9 , "Department":"CSC", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 907, "name": "Odogwu", "position": "Midfielder","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 908, "name": "Peterscondo", "position": "Midfielder","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 909, "name": "Trinity", "position": "Midfielder","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 910, "name": "Kay", "position": "Midfielder","clubId": 9 , "Department":"CSC", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 911, "name": "Ancient Man", "position": "Midfielder","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 912, "name": "Odegaard", "position": "Midfielder","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 913, "name": "Ika", "position": "Midfielder","clubId": 9 , "Department":"CSC", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 914, "name": "ND", "position": "Forward","clubId": 9 , "Department":"CSC", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 915, "name": "Sprinter", "position": "Forward","clubId": 9 , "Department":"CSC", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 916, "name": "Fola", "position": "Forward","clubId": 9 , "Department":"CVE", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 917, "name": "Dami", "position": "Forward","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 918, "name": "Bizm", "position": "Forward","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 919, "name": "Sammie", "position": "Forward","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 920, "name": "Okoro", "position": "Midfielder","clubId": 9 , "Department":"ICH", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 921, "name": "Tobi", "position": "Defender","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 922, "name": "Dominion", "position": "Midfielder","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 923, "name": "", "position": "Goalkeeper","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 924, "name": "", "position": "Goalkeeper","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 925, "name": "", "position": "Goalkeeper","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 926, "name": "", "position": "Goalkeeper","clubId": 9 , "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }}
+      ]
+    },
+    {
+      "id": 10,
+      "clubname": "YDC FC",
+      "clubLogo": "/assets/images/ydc fc.jpg",
+      "players": [
+        { "playerId": 1001, "name": "Feranmi", "position": "Goalkeeper","clubId": 10, "Department":"ICH", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1002, "name": "Dynamic", "position": "Defender","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1003, "name": "JJ", "position": "Defender","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1004, "name": "Ay", "position": "Defender","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1005, "name": "Kodax", "position": "Defender","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1006, "name": "Ishaka", "position": "Midfielder","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1007, "name": "Young Joe", "position": "Midfielder","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1008, "name": "Adisa", "position": "Midfielder","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1009, "name": "Favour", "position": "Forward","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1010, "name": "Pappy", "position": "Defender","clubId": 10, "Department":"ICH", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1011, "name": "Dammy", "position": "Forward","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1012, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1013, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1014, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1015, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1016, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1017, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1018, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1019, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1020, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1021, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1022, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1023, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1024, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1025, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 1026, "name": "", "position": "Goalkeeper","clubId": 10, "Department":"", "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }}
+      ]
+    }
+  ]
+}

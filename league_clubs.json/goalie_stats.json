@@ -1,0 +1,36 @@
+{
+    "league": {
+        "name": "Oaustech League",
+        "season": "2025/26"
+    },
+    "statistics": [
+        {
+            "position": 1,
+            "name": "Shittu",
+            "club": "Rising Star",
+            "cleansheets": 2,
+            "playericon": "/placeholder.png"
+        },
+        {
+            "position": 2,
+            "name": "YDT",
+            "club": "Empire Fc",
+            "cleansheets": 2,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 3,
+            "name": "Niyi",
+            "club": "Expensive Fc",
+            "cleansheets": 1,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 4,
+            "name": "Micheal",
+            "club": "Expensive Fc",
+            "cleansheets": 1,
+            "playericon":"/placeholder.png"
+        }
+    ]
+}

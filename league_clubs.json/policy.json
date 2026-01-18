@@ -1,0 +1,46 @@
+{
+    "league": "Oaustech League",
+    "season": "2025/26",
+    "policy": [
+        {
+            "id": 1,
+            "title": "General Provisions",
+            "content": "The league shall be governed by the organizing committee or sports board. All participating teams must be duly registered before the start of the competition, Each team must be submit a list of players and officials before kickoff (e.g. 18-25 players). All players must meet eligibility requirements (e.g, students status, Matric Number, etc)."
+        },
+        {
+            "id": 2,
+            "title": "Match Regulations",
+            "content": "Matches shall be played in accordance with the Laws of the Game as defined by FIFA.  Duration of matches: 90 minutes (two halves of 45 minutes) with a 15-minute break. Shorter durations can be applied for school tournaments. "
+        },
+        {
+            "id": 3,
+            "title": "Team Composition",
+            "content": "A team may start a match with a minimum of 7 players and a maximum of 11 players. <br> Up to 5 substitutions per match are allowed. <br> Players must wear jerseys with unique numbers, shin guards, and appropriate footwear."
+        },
+        {
+            "id": 4,
+            "title": "Point System",
+            "content": "Win: 3 points <br> Draw: 1 point <br> Loss: 0 points <br> Teams are ranked by total points, goal difference, goals scored (in that order)"
+        },
+        {
+            "id": 5,
+            "title": "Disciplinary Measures",
+            "content": "Protest against match officials and team may result into suspension and fines. <br> Accumulation of yellow cards may result in a suspension. <br> Players, coaches, and fans must respect match officials and opponents. <br> Violence, cheating , or abusive behavior will be penalised"
+        },
+        {
+            "id": 6,
+            "title": "Match Officials",
+            "content": "Only Certified referees and assistant referees will officiate matches. <br> Referees' decisions on the field is final. <br> Match officials must submit reports after every game."
+        },
+        {
+            "id": 7,
+            "title": "Match Officials",
+            "content": "Only Certified referees and assistant referees will officiate matches. <br> Referees' decisions on the field is final. <br> Match officials must submit reports after every game."
+        },
+        {
+            "id": 8,
+            "title": "Match Scheduling",
+            "content": "All matches must begin at the scheduled time <br> Failure to appear within 15 minutes of kickoff time results in a walkover. <br>Only the organizing committee can postpone or reschedule matches."
+        }
+    ]
+}

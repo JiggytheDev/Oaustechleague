@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+body {
+    position: relative;
+}
+
+.matches-section {
+    margin: 15px;
+    padding: 20px;
+    font-size: 23px;
+    border-radius: 18px;
+    background-color: #00a7e1;
+}
+
+.header-links {
+    display: none;
+}
+
+.dropdowns {
+    margin: 15px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: start;
+    gap: 1rem;
+}
+
+.dropdown-btns {
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.matchweeks button {
+    height: 100%;
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid blue;
+    cursor: pointer;
+}
+
+.matchweeks button:hover {
+    background-color: #4f0057;
+}
+
+.next-matches {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    gap: 1rem;
+}
+
+option {
+    color: #fff;
+    border: 1px solid red;
+}
+
+select {
+    color: #fff;
+    background: transparent;
+    border: none;
+}
+
+.matchday-games {
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.date-seeall {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.fixture-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 23px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.fixture-row:hover {
+    background-color: #540d5a;
+}
+
+.fixture-row::after {
+    content: "";
+    position: absolute;
+    border: 1px solid rgba(81, 34, 85, 0.336);
+    bottom: 0;
+    width: 50%;
+}
+
+.seeall {
+    border: 1px solid ;
+    padding: 10px;
+    border-radius: 24px;
+}
+
+.homeTeam, .awayTeam {
+    width: 200px;
+    text-align: start;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.fixture-row img, .fixture-row img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.other-drops {
+    border: 1px solid red;
+    position: absolute;
+    height: 100vh;
+    width: 30vw;
+    background-color: #fff;
+    right: 0;
+    top: 0%;
+    padding: 10px;
+    z-index: 10;
+    display: none;
+}
+
+.owl, .opl-cup {
+    color: #000;
+}
+
+.matchTime {
+    border: 1px solid red;
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+}
+
+.matchdays-slidein {
+    border: 1px solid ;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 25%;
+    background-color: #454;
+    z-index: 12;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    height: 100vh;
+    overflow-y: scroll;
+    display: none;
+}
+
+.mwBtns {
+    border: 1px solid red;
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+    gap: 20px;
+    height: 100%;
+}
+
+.mwBtns button {
+    padding: 20px;
+    border-radius: 14px;
+    background: green;
+    border: none;
+    cursor: pointer;
+}
+
+form {
+    width: 100%;
+}
+
+form button {
+    width: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 28px;
+    color: red;
+}
+
+@media (max-width: 767px) {
+    body {
+        width: 100%;
+    }
+
+    .all-sponsors {
+        flex-direction: column;
+        height: 100%;
+        margin: 0;
+    }
+
+    .matchdays-slidein {
+        width: 80%;
+    }
+}
+
+

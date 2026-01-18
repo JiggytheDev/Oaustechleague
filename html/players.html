@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Players</title>
+    <link rel="stylesheet" href="/css/matches.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/players.css">
+    <link rel="stylesheet" href="/css/table.css">
+</head>
+<body>
+    <header>
+        <button id="open-nav-header"><img src="/assets/icons/bars-solid-full.svg" alt=""></button>
+        <div class="logo"><img src="" alt=""></div>
+        <div class="header-links" id="headerNav">
+            <div class="logo">
+                <img src="/assets/images/strikers united.jpg" alt="">
+
+                <button id="close-nav-header"><img src="/assets/icons/xmark-solid-full.svg" alt=""></button>
+            </div>
+            <a href="/html/index.html">Home</a>
+            <a href="/html/matches.html">Matches</a>
+            <a href="/html/table.html">Table</a>
+            <a href="/html/statistics.html">Statistics</a>
+            <a href="/html/news.html">News</a>
+            <a href="/html/transfers.html">Transfers</a>
+            <a href="/html/players.html">Players</a>
+            <a href="/html/clubs.html">Clubs</a>
+        </div>
+    </header>
+
+    <main>
+        <div class="matches-section">
+            <h1>Players</h1>
+        </div>
+
+        <div class="search-section">
+            <form id="playerSearch">
+                <label for="searchPlayer"></label>
+                <input type="search" id="searchPlayer" autocomplete="off" placeholder="Search">
+            </form>
+
+            <div class="search-player-filter search">
+                Filter
+            </div>
+
+            <div class="search-player-clubs search" id="showClubs">
+                Clubs
+            </div>
+
+            <div class="search-player-position search" id="showPositions">
+                Position
+            </div>
+
+            <div class="search-player-reset search">
+                Reset
+            </div>
+        </div>
+
+        <div class="all-clubs" id="clubSlideIn">
+            <div class="inside-header">
+              <h1>Clubs</h1>  
+              <button class="closeBtn" id="closeBtn">Close</button>
+            </div>
+            <div class="all-clubs-section" id="clubsContainer"></div>
+            <button id="checkedClubs">Save</button>
+            
+        </div>
+
+        <div class="all-clubs all-positions" id="Positions">
+            <div class="inside-header">
+               <h1>Positions</h1> 
+               <button class="closeBtn" id="closePositions">Close</button>
+            </div>
+            
+            <div class="all-positions-section">
+                <div class="positions">
+                    <label for="goalkeepers">GoalKeeper</label>
+                    <input type="checkbox" id="goalkeepers">
+                </div>
+                <div class="positions">
+                    <label for="defenders">Defender</label>
+                    <input type="checkbox" id="defenders">
+                </div>
+                <div class="positions">
+                    <label for="midfielders">Midfielder</label>
+                    <input type="checkbox" id="midfielders">
+                </div>
+                <div class="positions">
+                    <label for="forwards">Forward</label>
+                    <input type="checkbox" id="forwards">
+                </div>
+            </div>
+            <button id="checkedPositions">Save</button>
+        </div>
+
+        <div class="player-display-section">
+            <table class="player-display-table" id="playerDisplay">
+                <thead>
+                    <tr>
+                        <th>Player</th>
+                        <th>Club</th>
+                        <th>Position</th>
+                        <th>Department</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <footer>
+        <div class="foot-links">
+            <a href="#">Oaustech League</a>
+            <a href="/html/matches.html">Matches</a>
+            <a href="/html/table.html">Table</a>
+        </div>
+        <div class="foot-links">
+            <a href="/html/statistics.html">Statistics</a>
+            <a href="/html/news.html">Latest News</a>
+            <a href="/html/transfers.html">Transfers</a>
+        </div>
+        <div class="foot-links">
+            <a href="/html/players.html">Players</a>
+            <a href="/html/clubs.html">Clubs</a>
+            <a href="/html/policies.html">Policies</a>
+        </div>
+    </footer>
+
+    <script src="/JS/players.js"></script>
+    <script src="/JS/header.js"></script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+{
+    "league": {
+        "name": "Oaustech League",
+        "season": "2025/26"
+    },
+    "statistics": [
+        {
+            "position": 1,
+            "logo": "image",
+            "club": "Super Ballers Fc",
+            "goals": 6,
+            "clubLogo": "/assets/images/super ballers fc.jpg"
+        },
+        {
+            "position": 2,
+            "logo": "image",
+            "club": "Rising Star",
+            "goals": 5,
+            "clubLogo":"/assets/images/rising star.jpg"
+        },
+        {
+            "position": 3,
+            "logo": "image",
+            "club": "Expensive Fc",
+            "goals": 4,
+            "clubLogo":"/assets/images/expensive fc.jpg"
+        },
+        {
+            "position": 4,
+            "logo": "image",
+            "club": "Empire Fc",
+            "goals": 3,
+            "clubLogo":"/assets/images/empire fc.jpg"
+        },
+        {
+            "position": 5,
+            "logo": "image",
+            "club": "Golden Arrows Fc",
+            "goals": 2,
+            "clubLogo":"/assets/images/golden arrows.jpg"
+        },
+        {
+            "position": 6,
+            "logo": "image",
+            "club": "Dreco United",
+            "goals": 2,
+            "clubLogo":"/assets/images/dreco united.jpg"
+        },
+        {
+            "position": 7,
+            "logo": "image",
+            "club": "Rising Star Fc",
+            "goals": 5,
+            "clubLogo":"/assets/images/strikers united.jpg"
+        },
+        {
+            "position": 8,
+            "logo": "image",
+            "club": "Legend Fc",
+            "goals": 1,
+            "clubLogo":"/assets/images/legends fc.jpg"
+        },
+        {
+            "position": 9,
+            "logo": "image",
+            "club": "Medstar Fc",
+            "goals": 1,
+            "clubLogo":"/assets/images/medstar fc.jpg"
+        },
+        {
+            "position": 10,
+            "logo": "image",
+            "club": "YDC Fc",
+            "goals": 0,
+            "clubLogo":"/assets/images/ydc fc.jpg"
+        }
+    ]
+}

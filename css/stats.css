@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #28002b;
+    font-family: "Poppins", sans-serif;
+}
+
+.goal-assist, .goals-goalie {
+    margin: 15px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+}
+
+.goals-stats, .team-goals-stats {
+    background: #37003c;
+    flex-basis: 50%;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+th {
+    padding: 10px 15px;
+    text-align: start;
+}
+
+.team-cell {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+.team-cell img {
+    height: 70px;
+    width: 70px;
+    border-radius: 6px;
+    padding: 5px;
+}
+ 
+h1 {
+    font-size: 18px;
+}
+
+.assist-stats, .cleansheet-stats {
+    background: #37003c;
+    flex-basis: 50%;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.pos-cell {
+    display: flex;
+    align-items: center;
+    width: 95%;
+    gap: 20px;
+}
+
+tbody {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+tbody tr {
+    padding: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+tbody tr:hover {
+    background: #420a47;
+}
+
+.wrap {
+    height: 100%;
+}
+
+.wrap h1 {
+    font-size: 22px;
+}
+
+.wrap h4 {
+    font-size: 12px;
+}
+
+@media (max-width: 767px) {
+    body {
+        width: 100%;
+    }
+
+    .matches-section {
+        width: 100%;
+        margin: 0;
+    }
+
+    .goal-assist, .goals-goalie {
+        flex-direction: column;
+        margin: 0;
+        padding: 5px;
+    }
+
+    .goals-stats, .assist-stats, .cleansheet-stats, .team-goals-stats {
+        padding: 0;
+        margin: 0;
+        border-radius: 14px;
+    }
+
+    th a {
+        text-align: start;
+    }
+}

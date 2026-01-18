@@ -1,0 +1,331 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background: #37003c;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid red;
+}
+
+.header-links {
+    display: flex;
+    gap: 2.5rem;
+    color: #fff;
+}
+
+.header-links a {
+    font-size: 25px;
+    color: #fff;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+}
+
+.main-content {
+    border-radius: 18px;
+    display: flex;
+    margin: 15px;
+    padding: 15px;
+    height: 90vh;
+    width: 100%;
+    gap: 1rem;
+}
+
+.clubs-watch {
+    height: 100%;
+    flex-basis: 60%;
+    border-radius: 16px;
+    background-color: #28002b;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.clubs-img {
+    border-radius: 19px;
+    height: 100%;
+    width: 100%;
+    animation: slideimg 4s ease infinite;
+}
+
+.clubs-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+    opacity: 1;
+}
+
+.upcoming-games {
+    height: 100%;
+    flex-basis: 40%;
+    border-radius: 16px;
+    padding: 15px;
+    background: #28002b;
+    color: #fff;
+    overflow-y: scroll;
+}
+
+.upcoming-matches {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5rem;
+    width: 100%;
+}
+
+.date {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    width: 100%;
+}
+
+.games {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 100%;
+    height: 100%;
+}
+
+.clubs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.clubs::before {
+    content: '';
+    position: absolute;
+    width: 80%;
+    height: 1px;
+    bottom: -12%;
+    background: rgba(247, 247, 247, 0.432);
+}
+
+.clubs:nth-child(10)::before {
+    content: '';
+    display: none;
+
+}
+
+.box img {
+    width: 100%;
+    border-radius: 16px;
+    height: 100%;
+    /* object-fit: cover; */
+}
+
+.all-sponsors .box {
+    padding: 0;
+    margin: 0;
+}
+
+.homeClub, .gameTime, .awayClub {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: start;
+    gap: 20px;
+    padding: 10px;
+}
+
+.homeClub img, .awayClub img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.homeClub p, .awayClub p {
+    font-size: 15px;
+}
+
+.awayClub {
+    justify-content: start;
+    margin-left: 20px;
+}
+
+.gameTime {
+    text-align: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.gameTime p {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.all {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.all a {
+    padding: 10px;
+    border-radius: 19px;
+    background: #ffffff1f;
+    color: #fff;
+}
+
+.latest-news, .all-sponsors {
+    border: 1px solid ;
+    margin: 15px;
+    width: 100%;
+    height: 35vh;
+    border-radius: 18px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    gap: 1.5rem;
+}
+
+.latest-news {
+    flex-direction: column;
+    height: 100%;
+}
+
+.news {
+    display: flex;
+    height: 100%;
+    gap: 1rem;
+}
+
+.news-box, .box {
+    border: 1px solid ;
+    padding: 20px;
+    width: 100%;
+    border-radius: 16px;
+}
+
+.all-sponsors {
+    border: none;
+}
+
+.news-box {
+    height: 40vh;
+    border: 1px solid red;
+}
+
+
+footer {
+    display: flex;
+    margin: 15px;
+    background-color: #28002b;
+}
+
+.foot-links {
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+    font-size: 30px;
+    padding: 25px;
+    gap: 1.5rem;
+    position: relative;
+    color: #fff;
+}
+
+.foot-links a {
+    color: #fff;
+}
+
+.foot-links::after {
+    content: "";
+    border: 1px solid;
+    position: absolute;
+    right: 0;
+    height: 100%;
+    top: 0;
+}
+
+@media(max-width: 767px) {
+    body {
+        width: 100%;
+        margin: 0;
+    }
+
+    .main-content {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .clubs-watch{
+        width: 100%;
+    }
+
+    .upcoming-games {
+        flex-basis: 50%;
+    }
+
+    .latest-news, .all-sponsors {
+        flex-direction: column;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .news {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+
+    .latest-news {
+        align-items: start;
+        border: none;
+        margin: 0px;
+    }
+
+    .news-box {
+        margin: 0;
+    }
+
+    .all-sponsors {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin: 0;
+    }
+
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        margin: 0px;
+        padding: 0;
+    }
+
+    .foot-links::after {
+        display: none;
+    }
+
+    .foot-links::before {
+        display: none;
+    }
+}

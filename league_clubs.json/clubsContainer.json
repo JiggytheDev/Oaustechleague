@@ -1,0 +1,14 @@
+{ 
+    "clubs":  [
+        { "name": "Dreco United", "image": "/assets/images/dreco united.jpg", "id": "dreco" },
+        { "name": "Empire FC", "image": "/assets/images/empire fc.jpg", "id": "empire" },
+        { "name": "Expensive FC", "image": "/assets/images/expensive fc.jpg", "id": "expensive" },
+        { "name": "Golden Arrows", "image": "/assets/images/golden arrows.jpg", "id": "golden" },
+        { "name": "Legend FC", "image": "/assets/images/legends fc.jpg", "id": "legend" },
+        { "name": "Medstar FC", "image": "/assets/images/medstar fc.jpg", "id": "medstar" },
+        { "name": "Rising Star FC", "image": "/assets/images/rising star.jpg", "id": "rising" },
+        { "name": "Strikers United", "image": "/assets/images/strikers united.jpg", "id": "strikers" },
+        { "name": "Super Ballers", "image": "/assets/images/super ballers fc.jpg", "id": "superballers" },
+        { "name": "YDC FC", "image": "/assets/images/ydc fc.jpg", "id": "ydc" }
+    ]
+}

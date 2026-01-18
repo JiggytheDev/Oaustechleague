@@ -1,0 +1,74 @@
+{
+    "league": {
+      "name":"Oaustech league",
+      "season": "2025/26"
+    },
+    
+    "players": [
+        {
+          "image": "/placeholder.png",
+          "playerName": "Viera",
+          "clublogo": "/assets/images/super ballers fc.jpg",
+          "clubname": "Rising Star Fc",
+          "position": "Midfielder",
+          "Nationality": "Nigerian"   
+        },
+        {
+          "image": "/placeholder.png",
+          "playerName": "Viera",
+          "clublogo": "/assets/images/medstar fc.jpg",
+          "clubname": "Rising Star Fc",
+          "position": "Midfielder",
+          "Nationality": "Nigerian"   
+        },
+        {
+          "image": "/placeholder.png",
+          "playerName": "Viera",
+          "clublogo": "/assets/images/expensive fc.jpg",
+          "clubname": "Rising Star Fc",
+          "position": "Midfielder",
+          "Nationality": "Nigerian"   
+        },
+        {
+          "image": "/placeholder.png",
+          "playerName": "Viera",
+          "clublogo": "/assets/images/dreco united.jpg",
+          "clubname": "Rising Star Fc",
+          "position": "Midfielder",
+          "Nationality": "Nigerian"   
+        },
+        {
+          "image": "/placeholder.png",
+          "playerName": "Viera",
+          "clublogo": "/assets/images/simario fc.jpg",
+          "clubname": "Rising Star Fc",
+          "position": "Midfielder",
+          "Nationality": "Nigerian"   
+        },
+        {
+          "image": "/placeholder.png",
+          "playerName": "Viera",
+          "clublogo": "/assets/images/strikers united.jpg",
+          "clubname": "Rising Star Fc",
+          "position": "Midfielder",
+          "Nationality": "Nigerian"   
+        },
+        {
+          "image": "/placeholder.png",
+          "playerName": "Viera",
+          "clublogo": "/assets/images/super ballers fc.jpg",
+          "clubname": "Rising Star Fc",
+          "position": "Midfielder",
+          "Nationality": "Nigerian"   
+        },
+        
+        {
+          "image": "/placeholder.png",
+          "playerName": "Viera",
+          "clublogo": "/assets/images/dreco united.jpg",
+          "clubname": "Rising Star Fc",
+          "position": "Midfielder",
+          "Nationality": "Nigerian"   
+        }
+    ]  
+}

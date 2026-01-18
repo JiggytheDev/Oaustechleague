@@ -1,0 +1,78 @@
+{
+    "league": {
+        "name": "Oaustech League",
+        "season": "2025/26"
+    },
+    "statistics": [
+        {
+            "position": 1,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 2,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 3,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 4,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 5,
+            "name": "YDT",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 6,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 7,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 8,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 9,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg":"/placeholder.png"
+        },
+        {
+            "position": 10,
+            "name": "shittu",
+            "club": "Rising Star Fc",
+            "assists": 5,
+            "playerimg": "/placeholder.png"
+        }
+    ]
+}

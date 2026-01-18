@@ -1,0 +1,78 @@
+{
+    "league": {
+        "name": "Oaustech League",
+        "season": "2025/26"
+    },
+    "statistics": [
+        {
+            "position": 1,
+            "name": "Richard",
+            "club": "Expensive Fc",
+            "goals": 3,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 2,
+            "name": "Daniel",
+            "club": "Rising Star",
+            "goals": 2,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 3,
+            "name": "Hommy",
+            "club": "Super Ballers FC",
+            "goals": 2,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 4,
+            "name": "YDT",
+            "club": "Expensive Fc",
+            "goals": 5,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 5,
+            "name": "Ndola",
+            "club": "Expensive Fc",
+            "goals": 1,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 6,
+            "name": "Swanky",
+            "club": "Golden Arrows",
+            "goals": 1,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 7,
+            "name": "BOD",
+            "club": "Rising Star",
+            "goals": 1,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 8,
+            "name": "YDT",
+            "club": "Expensive Fc",
+            "goals": 5,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 9,
+            "name": "YDT",
+            "club": "Expensive Fc",
+            "goals": 5,
+            "playericon":"/placeholder.png"
+        },
+        {
+            "position": 10,
+            "name": "YDT",
+            "club": "Expensive Fc",
+            "goals": 5,
+            "playericon": "/placeholder.png"
+        }
+    ]
+}

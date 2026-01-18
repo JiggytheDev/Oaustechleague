@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.year {
+    margin: 20px;
+}
+
+.league-clubs {
+    margin: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 0px;
+    gap: 10px;
+}
+
+.clubs {
+    display: none;
+}
+
+.oplClubs {
+    display: flex;
+    background-color: #3f2626;
+    border-radius: 16px;
+    padding: 20px;
+    color: #000;
+    align-items: center;
+    justify-content: start;
+    gap: 20px;
+    cursor: pointer;
+}
+
+.oplClubs img {
+    height: 70px;
+    width: 70px;
+    border-radius: 20%;
+    object-fit: cover;
+}
+
+
+.clubBox {
+    border: 1px solid red;
+    padding: 20px;
+    height: 40vh;
+}
+
+@media (max-width: 767px) {
+    .league-clubs {
+        display: flex;
+        flex-direction: column;
+    }
+}

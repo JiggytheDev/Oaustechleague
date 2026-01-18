@@ -1,0 +1,69 @@
+{
+    "league": {
+        "name": "Oaustech League",
+        "season": "2025/26"
+    },
+
+    "clubs": [
+        {
+            "id": 1,
+            "clubLogo": "/assets/images/dreco united.jpg",
+            "clubname": "Dreco United",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 2,
+            "clubLogo": "/assets/images/empire fc.jpg",
+            "clubname": "Empire FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 3,
+            "clubLogo": "/assets/images/expensive fc.jpg",
+            "clubname": "Expensive FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 4,
+            "clubLogo": "/assets/images/golden arrows.jpg",
+            "clubname": "Golden Arrows FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 5,
+            "clubLogo": "/assets/images/legends fc.jpg",
+            "clubname": "Legend FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 6,
+            "clubLogo": "/assets/images/medstar fc.jpg",
+            "clubname": "Medstar FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 7,
+            "clubLogo": "/assets/images/rising star.jpg",
+            "clubname": "Rising Star FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 8,
+            "clubLogo": "/assets/images/strikers united.jpg",
+            "clubname": "Strikers United FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 9,
+            "clubLogo": "/assets/images/super ballers fc.jpg",
+            "clubname": "Super Ballers FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 10,
+            "clubLogo": "/assets/images/ydc fc.jpg",
+            "clubname": "YDC FC",
+            "arrowIcon": "png.jpg"
+        }
+    ]
+}

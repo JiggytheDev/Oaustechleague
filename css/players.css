@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    font-family: "Poppins", sans-serif;
+}
+
+.search-section {
+    padding: 10px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.search-section input {
+    border: 1px solid hsla(0, 0%, 78%, 0.377);
+    padding: 12px 19px;
+    border-radius: 14px;
+    width: 290px;
+    background: transparent;
+}
+
+.search {
+    padding: 8px 17px;
+    border-radius: 8px;
+    border: 1px solid hsla(0, 0%, 78%, 0.377);
+    cursor: pointer;
+}
+
+.player-display-section {
+    margin: 15px;
+    padding: 10px;
+}
+
+table {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 14px;
+    background-color: #2c062c;
+}
+
+thead tr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+tbody tr {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+
+.player-profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.player-profile img {
+    height: 80px;
+    width: 80px;
+    padding: 6px;
+    border-radius: 8px;
+    background: hsla(0, 8%, 49%, 0.205);
+}
+
+.team-cell {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.team-cell img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.all-clubs, .all-positions {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #2c062c;
+    height: 100vh;
+    width: 35vw;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+    z-index: 10;
+    display: none;
+    animation: slideIn 3s ease;
+    font-family: "Poppins", sans-serif;
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateX(580px);
+    }
+}
+
+.all-positions {
+    z-index: 23;
+    background-color: red;
+    height: 100vh;
+    justify-content: flex-start;
+    display: none;
+}
+
+.all-clubs-section, .all-positions-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    height: 80vh;
+    overflow-y: scroll;
+}
+
+.all-positions-section {
+    overflow: hidden;
+}
+
+.inside-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.all-clubs-section::-webkit-scrollbar {
+    width: 0px;
+}
+
+.all-clubs-section::-webkit-scrollbar-track {
+    background-color: #888;
+    border-radius: 4px;
+}
+
+button {
+    color: #2c062c;
+    padding: 13px;
+    border-radius: 18px;
+    border: none;
+    cursor: pointer;
+}
+
+.clubs, .positions {
+    padding: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clubs input[type="checkbox"], .positions input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.clubs img {
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+.show {
+    display: flex;
+}
+
+.hide {
+    display: none;
+}

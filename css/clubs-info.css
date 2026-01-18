@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: "Poppins", sans-serif;
+}
+
+.test-club-info {
+    margin: 15px;
+    height: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.test-club-left-info {
+    flex-basis: 30%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.test-club-right-info {
+    flex-basis: 70%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.test-club-logo, .test-club-coach {
+    padding: 30px;
+    height: 30vh;
+    background-color: violet;
+    border-radius: 8px;
+    animation: pulse 9s ease infinite;
+}
+
+.playerDetails {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: start;
+    gap: 15px;
+}
+
+.playerDetails img {
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    border-radius: 6px;
+    background: #fff;
+}
+
+/* @keyframes pulse {
+    0% {
+        opacity: 0;
+    }
+
+    25% {
+        opacity: 0.25;
+    }
+
+    50% {
+        opacity: 0.50;
+    }
+
+    75% {
+        opacity: 0.75%;
+    }
+
+    100% {
+        opacity: 0.78;
+    }
+} */
+
+.test-club-year {
+    border: 1px solid ;
+    padding: 10px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: tomato;
+    width: fit-content;
+}
+
+.test-club-contributions {
+    display: flex;
+    gap: 10px;
+}
+
+.test-club-positions {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.test-club-games-played {
+    background: purple;
+    padding: 5px 9px;
+    flex-basis: 33.33%;
+    border-radius: 8px;
+}
+
+.test-club-games-played h3 {
+    font-size: 25px;
+}
+
+.test-club-goalie-midfield, .test-club-defence-forward {
+    display: flex;
+    gap: 10px;
+}
+
+.test-club-goalie, .test-club-midfield, .test-club-defence, .test-club-forward {
+    flex-basis: 50%;
+    background-color: purple;
+    height: 100%;
+    border-radius: 8px;
+    padding: 10px;
+    animation: pulse 9s ease infinite;
+}
+
+.midfieldSection {
+    height: 100%;
+}
+
+#test-display-goalie, #test-display-midfield, #test-display-defence, #test-display-forward {
+    height: 100%;
+}
+
+@media (max-width: 767px) {
+
+    body {
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    .test-club-info, .test-club-contributions, .test-club-goalie-midfield, .test-club-defence-forward {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .test-club-year {
+        display: none;
+    }
+
+}

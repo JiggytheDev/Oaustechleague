@@ -1,0 +1,134 @@
+{
+    "league": {
+        "name": "Oaustech League",
+        "season": "2025/26"
+    },
+
+    "transfers": [
+        {
+            "id": 1,
+            "playerIcon": "/placeholder.png",
+            "playerId": 412,
+            "type": "free",
+            "fromClubId": 7,
+            "prevClubLogo": "/assets/images/rising star.jpg",
+            "toClubId": 4,
+            "newClubLogo": "/assets/images/golden arrows.jpg",
+            "fee": null
+        },
+        {
+            "id": 2,
+            "playerIcon":"/placeholder.png",
+            "playerId": 910,
+            "type": "free",
+            "fromClubId": 1,
+            "prevClubLogo": "/assets/images/expensive fc.jpg",
+            "toClubId": 9,
+            "newClubLogo": "/assets/images/super ballers fc.jpg",
+            "fee": null
+        },
+        {
+            "id": 3,
+            "playerIcon":"/placeholder.png",
+            "playerId": 122,
+            "type": "free",
+            "fromClubId": null,
+            "toClubId": 1,
+            "newClubLogo": "/assets/images/expensive fc.jpg",
+            "fee": null
+        },
+        {
+            "id": 4,
+            "playerIcon":"/placeholder.png",
+            "playerId": 112,
+            "type": "free",
+            "fromClubId": null,
+            "toClubId": 1,
+            "newClubLogo": "/assets/images/expensive fc.jpg",
+            "fee": null
+        },
+        {
+            "id": 5,
+            "playerIcon":"/placeholder.png",
+            "playerId": 401,
+            "type": "free",
+            "fromClubId": 7,
+            "prevClubLogo": "/assets/images/rising star.jpg",
+            "toClubId": 4,
+            "newClubLogo": "/assets/images/golden arrows.jpg",
+            "fee": null
+        },
+        {
+            "id": 6,
+            "playerIcon":"/placeholder.png",
+            "playerId": 1011,
+            "type": "free",
+            "fromClubId": null,
+            "toClubId": 10,
+            "newClubLogo": "/assets/images/ydc fc.jpg",
+            "fee": null
+        },
+        {
+            "id": 7,
+            "playerIcon":"/placeholder.png",
+            "playerId": 224,
+            "type": "free",
+            "fromClubId": null,
+            "toClubId": 2,
+            "newClubLogo": "/assets/images/dreco united.jpg",
+            "fee": null
+        },
+        {
+            "id": 8,
+            "playerIcon":"/placeholder.png",
+            "playerId": 225,
+            "type": "free",
+            "fromClubId": null,
+            "toClubId": 2,
+            "newClubLogo": "/assets/images/dreco united.jpg",
+            "fee": null
+        },
+        {
+            "id": 9,
+            "playerIcon":"/placeholder.png",
+            "playerId": 810,
+            "type": "free",
+            "fromClubId": null,
+            "toClubId": 8,
+            "newClubLogo": "/assets/images/strikers united.jpg",
+            "fee":null
+        },
+        {
+            "id": 10,
+            "playerIcon":"/placeholder.png",
+            "playerId": 422,
+            "type": "free",
+            "fromClubId": null,
+            "toClubId": 4,
+            "newClubLogo": "/assets/images/golden arrows.jpg",
+            "fee":null
+        },
+        {
+            "id": 11,
+            "playerIcon":"/placeholder.png",
+            "playerId": 616,
+            "type": "free",
+            "fromClubId": 7,
+            "prevClubLogo": "/assets/images/rising star.jpg",
+            "toClubId": 6,
+            "newClubLogo": "/assets/images/medstar fc.jpg",
+            "fee":null
+        },
+        {
+            "id": 12,
+            "playerIcon":"/placeholder.png",
+            "playerId": 226,
+            "type": "free",
+            "fromClubId": 3,
+            "prevClubLogo": "/assets/images/empire fc.jpg",
+            "toClubId": 2,
+            "newClubLogo": "/assets/images/dreco united.jpg",
+            "fee":null
+        }
+    ]
+}
