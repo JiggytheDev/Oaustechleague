@@ -94,10 +94,10 @@
 
 // FETCHING MATCHES AND PLAYERS DATA
 import { calculatePlayerStats } from "./stats.js";
-import { getTopScorers } from "./leaderboard.js";
+import { getTopScorers } from "./stats.js";
 import { initializeClubStats } from "./clubs-stats.js";
 import { calculateClubStats } from "./clubs-stats.js";
-import { getLeagueTable } from "./league-table.js";
+import { getCardLeaders } from "./stats.js";
 
 Promise.all([
   fetch("/league_clubs.json/league_matches.json").then(res => res.json()),
@@ -148,17 +148,17 @@ Promise.all([
 
   // GOALSCORERS
   const goalScorers = getGoalscorers(foundMatch, allPlayers);
-  const goalies = document.getElementById("goalscorers");
-  goalies.innerHTML = goalScorers;
-  console.log("GOALSCORERS:", goalScorers);
-
-  // GETTING CARDS
-  const cards = getCards(foundMatch, allPlayers);
-  console.log("CARDS:", cards);
+  console.table("GOALSCORERS:", goalScorers);
 
   // TOPSCORERS
   const topScorers = getTopScorers(playerStats, allPlayers);
   console.table("TOPSCORERS:", topScorers);
+
+  // GETTING CARDS
+  const cards = getCardLeaders(playerStats, allPlayers);
+  console.table("CARDS:", cards);
+
+  
 
   //CLUB STATS
   const clubStats = calculateClubStats(allMatches, clubs);
