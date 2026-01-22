@@ -162,12 +162,19 @@ Promise.all([
 
   //CLUB STATS
   const clubStats = calculateClubStats(allMatches, clubs);
-  console.table("CLUB STATS:", clubStats);
+
+  const tableArray = Object.values(clubStats);
+
+  tableArray
+    .sort((a, b) => {
+      b.points - a.points || b.goalDifference - a.goalDifference || b.goalsFor - a.goalsFor
+    });
+  console.table("CLUB STATS:", tableArray);
 
   // LEAGUE TABLE
-  const leagueTable = getLeagueTable(clubStats);
+  /* const leagueTable = getLeagueTable(clubStats);
   console.table(leagueTable);
-  console.log({ clubs, allPlayers, allMatches});
+  console.log({ clubs, allPlayers, allMatches}); */
 })
 .catch(err => console.error(err));
 

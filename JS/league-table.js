@@ -1,4 +1,4 @@
-export function getLeagueTable(clubStats) {
+/* export function getLeagueTable(clubStats) {
     return [...clubStats].sort((a, b) => {
         if (b.points !== a.points) return b.points - a.points;
 
@@ -9,4 +9,4 @@ export function getLeagueTable(clubStats) {
 
         return b.goalsFor - a.goalsFor;
     });
-}
+} */
