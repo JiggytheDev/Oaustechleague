@@ -510,6 +510,12 @@
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
+        }},
+        { "playerId": 326, "name": "Sunny Kay", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
         }}
       ]
     },
