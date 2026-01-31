@@ -863,8 +863,33 @@
                     "events":[
                         {
                             "type":"goal",
-                            "clubId": 1
-                            "playerId":
+                            "clubId": 1,
+                            "playerId": 121
+                        },
+                        {
+                            "type":"goal",
+                            "clubId": 1,
+                            "playerId": 117
+                        },
+                        {
+                            "type":"ownGoal",
+                            "clubId": 3,
+                            "playerId": 121
+                        },
+                        {
+                            "type":"goal",
+                            "clubId": 1,
+                            "playerId": 118
+                        },
+                        {
+                            "type":"goal",
+                            "clubId": 3,
+                            "playerId": 121
+                        },
+                        {
+                            "type":"goal",
+                            "clubId": 1,
+                            "playerId": 114
                         }
                     ]
                 }
