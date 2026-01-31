@@ -626,7 +626,7 @@
                     ]
                 },
                 {
-                    "matchId": 128, "homeLogo": "/assets/images/legends fc.jpg","homeClubId":5 , "time": "14:00","awayClubId": 8, "awayLogo": "/assets/images/strikers united.jpg", "date":"Sat 10 Jan", "status":"completed", "played":true, 
+                    "matchId": 128, "homeLogo": "/assets/images/legends fc.jpg","homeClubId":5 , "time": "2:1","awayClubId": 8, "awayLogo": "/assets/images/strikers united.jpg", "date":"Sat 10 Jan", "status":"completed", "played":true, 
                     "events":[
                         {
                             "type":"goal",
@@ -643,7 +643,7 @@
                     ]
                 },
                 {
-                    "matchId": 129, "homeLogo": "/assets/images/super ballers fc.jpg","homeClubId": 9, "time": "16:00","awayClubId": 6, "awayLogo": "/assets/images/medstar fc.jpg", "date":"Sun 11 Jan", "status":"completed", "played":true, 
+                    "matchId": 129, "homeLogo": "/assets/images/super ballers fc.jpg","homeClubId": 9, "time": "4:1","awayClubId": 6, "awayLogo": "/assets/images/medstar fc.jpg", "date":"Sun 11 Jan", "status":"completed", "played":true, 
                     "events":[
                         {
                             "type":"goal",
@@ -668,7 +668,7 @@
                     ]
                 },
                 {
-                    "matchId": 130,"homeLogo": "/assets/images/expensive fc.jpg","homeClubId": 1, "time": "17:00","awayClubId": 10, "awayLogo": "/assets/images/ydc fc.jpg", "enddate":"Sun 11 Jan", "status":"completed", "played":true, 
+                    "matchId": 130,"homeLogo": "/assets/images/expensive fc.jpg","homeClubId": 1, "time": "6:0","awayClubId": 10, "awayLogo": "/assets/images/ydc fc.jpg", "enddate":"Sun 11 Jan", "status":"completed", "played":true, 
                     "events":[
                         {
                             "type":"goal",
@@ -702,19 +702,83 @@
             "matchday": 7,
             "fixtures": [
                 {
-                    "matchId": 131, "homeLogo": "/assets/images/golden arrows.jpg","homeClubId": 4, "time": "16:00","awayClubId": 2, "awayLogo": "/assets/images/dreco united.jpg", "startdate":"Fri 16 Jan"
+                    "matchId": 131, "homeLogo": "/assets/images/golden arrows.jpg","homeClubId": 4, "time": "1:4","awayClubId": 2, "awayLogo": "/assets/images/dreco united.jpg", "startdate":"Fri 16 Jan", "status":"completed", "played": true, 
+                    "events":[
+                        {
+                            "type": "goal",
+                            "clubId": 4
+                        },
+                        {
+                            "type": "goal",
+                            "clubId": 2
+                        },
+                        {
+                            "type": "goal",
+                            "clubId": 2
+                        },
+                        {
+                            "type": "goal",
+                            "clubId": 2
+                        },
+                        {
+                            "type": "goal",
+                            "clubId": 2
+                        }
+                    ]
                 },
                 {
-                    "matchId": 132, "homeLogo": "/assets/images/empire fc.jpg","homeClubId": 3, "time": "12:00","awayClubId": 5, "awayLogo": "/assets/images/legends fc.jpg", "date": "Sat 17 Jan"
+                    "matchId": 132, "homeLogo": "/assets/images/empire fc.jpg","homeClubId": 3, "time": "1:0","awayClubId": 5, "awayLogo": "/assets/images/legends fc.jpg", "date": "Sat 17 Jan", "status":"completed", "played":true,
+                    "events":[
+                        {
+                            "type":"goal",
+                            "clubId":3
+                        }
+                    ]
                 },
                 {
-                    "matchId": 133, "homeLogo": "/assets/images/medstar fc.jpg","homeClubId": 6, "time": "14:00","awayClubId": 7, "awayLogo": "/assets/images/rising star.jpg", "date":"Sat 17 Jan"
+                    "matchId": 133, "homeLogo": "/assets/images/medstar fc.jpg","homeClubId": 6, "time": "1:4","awayClubId": 7, "awayLogo": "/assets/images/rising star.jpg", "date":"Sat 17 Jan", "status":"completed", "played":true, 
+                    "events":[
+                        {
+                            "type":"goal",
+                            "clubId":6
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":7
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":7
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":7
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":7
+                        }
+                    ]
                 },
                 {
-                    "matchId": 134, "homeLogo": "/assets/images/ydc fc.jpg","homeClubId": 10, "time": "15:00","awayClubId": 8, "awayLogo": "/assets/images/strikers united.jpg", "date":"Sun 18 Jan"
+                    "matchId": 134, "homeLogo": "/assets/images/ydc fc.jpg","homeClubId": 10, "time": "2:1","awayClubId": 8, "awayLogo": "/assets/images/strikers united.jpg", "date":"Sun 18 Jan", "status":"completed", "played":true, 
+                    "events":[
+                        {
+                            "type":"goal",
+                            "clubId":10
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":8
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":10
+                        }
+                    ]
                 },
                 {
-                    "matchId": 135,"homeLogo": "/assets/images/super ballers fc.jpg","homeClubId": 9, "time": "17:00","awayClubId": 1, "awayLogo": "/assets/images/expensive fc.jpg", "enddate":"Sun 18 Jan"
+                    "matchId": 135,"homeLogo": "/assets/images/super ballers fc.jpg","homeClubId": 9, "time": "0:0","awayClubId": 1, "awayLogo": "/assets/images/expensive fc.jpg", "enddate":"Sun 18 Jan"
                 }
             ]
         },
@@ -722,19 +786,19 @@
             "matchday": 8,
             "fixtures": [
                 {
-                    "matchId": 136, "homeLogo": "/assets/images/dreco united.jpg","homeClubId": 2, "time": "16:00", "awayClubId": 5, "awayLogo": "/assets/images/legends fc.jpg", "startdate":"Fri 23 Jan"
+                    "matchId": 136, "homeLogo": "/assets/images/dreco united.jpg","homeClubId": 2, "time": "16:00", "awayClubId": 5, "awayLogo": "/assets/images/legends fc.jpg", "startdate":"TBD"
                 },
                 {
-                    "matchId": 137, "home": "Golden Arrows FC", "homeLogo": "/assets/images/golden arrows.jpg","homeClubId": 4, "time": "12:00","awayClubId": 6, "awayLogo": "/assets/images/medstar fc.jpg", "date": "Sat 24 Jan"
+                    "matchId": 137, "home": "Golden Arrows FC", "homeLogo": "/assets/images/golden arrows.jpg","homeClubId": 4, "time": "12:00","awayClubId": 6, "awayLogo": "/assets/images/medstar fc.jpg", "date": "TBD"
                 },
                 {
-                    "matchId": 138, "homeLogo": "/assets/images/expensive fc.jpg","homeClubId": 1, "time": "14:00","awayClubId": 3, "awayLogo": "/assets/images/empire fc.jpg", "date":"Sat 24 Jan"
+                    "matchId": 138, "homeLogo": "/assets/images/expensive fc.jpg","homeClubId": 1, "time": "14:00","awayClubId": 3, "awayLogo": "/assets/images/empire fc.jpg", "date":"TBD"
                 },
                 {
-                    "matchId": 139,  "homeLogo": "/assets/images/rising star.jpg","homeClubId": 7, "time": "16:00","awayClubId": 10, "awayLogo": "/assets/images/ydc fc.jpg", "date":"Sun 25 Jan"
+                    "matchId": 139,  "homeLogo": "/assets/images/rising star.jpg","homeClubId": 7, "time": "16:00","awayClubId": 10, "awayLogo": "/assets/images/ydc fc.jpg", "date":"TBD"
                 },
                 {
-                    "matchId": 140,  "homeLogo": "/assets/images/strikers united.jpg","homeClubId": 8, "time": "17:00","awayClubId": 9, "awayLogo": "/assets/images/super ballers fc.jpg", "enddate":"Sun 25 Jan"
+                    "matchId": 140,  "homeLogo": "/assets/images/strikers united.jpg","homeClubId": 8, "time": "17:00","awayClubId": 9, "awayLogo": "/assets/images/super ballers fc.jpg", "enddate":"TBD"
                 }
             ]
         },
