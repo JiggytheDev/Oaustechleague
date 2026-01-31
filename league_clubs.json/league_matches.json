@@ -806,19 +806,67 @@
             "matchday": 9,
             "fixtures": [
                 {
-                    "matchId": 141, "homeLogo": "/assets/images/medstar fc.jpg","homeClubId": 6, "time": "16:00","awayClubId": 2, "awayLogo": "/assets/images/dreco united.jpg", "startdate":"Fri 30 Jan"
+                    "matchId": 141, "homeLogo": "/assets/images/medstar fc.jpg","homeClubId": 6, "time": "0:5","awayClubId": 2, "awayLogo": "/assets/images/dreco united.jpg", "startdate":"Fri 30 Jan", "status":"completed", "played":true, 
+                    "events":[
+                        {
+                            "type":"goal",
+                            "clubId":2,
+                            "playerId": 203
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":2,
+                            "playerId": 209
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":2,
+                            "playerId": 227
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":2,
+                            "playerId": 228
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":2,
+                            "playerId": 229
+                        }
+                    ]
                 },
                 {
-                    "matchId": 142, "homeLogo": "/assets/images/legends fc.jpg","homeClubId": 5, "time": "12:00","awayClubId": 8, "awayLogo": "/assets/images/strikers united.jpg", "date": "Sat 31 Jan"
+                    "matchId": 142, "homeLogo": "/assets/images/legends fc.jpg","homeClubId": 5, "time": "2:1","awayClubId": 8, "awayLogo": "/assets/images/strikers united.jpg", "date": "Sat 31 Jan", "status":"completed", "played":true, 
+                    "events":[
+                        {
+                            "type":"goal",
+                            "clubId":8
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":5
+                        },
+                        {
+                            "type":"goal",
+                            "clubId":5
+                        }
+                    ]
                 },
                 {
-                    "matchId": 143, "home": "YDC FC", "homeLogo": "/assets/images/ydc fc.jpg","homeClubId": 10, "time": "14:00","awayClubId": 4, "awayLogo": "/assets/images/golden arrows fc.jpg", "date":"Sat 31 Jan"
+                    "matchId": 143, "home": "YDC FC", "homeLogo": "/assets/images/ydc fc.jpg","homeClubId": 10, "time": "14:00","awayClubId": 4, "awayLogo": "/assets/images/golden arrows fc.jpg", "date":"TBD"
                 },
                 {
-                    "matchId": 144, "homeLogo": "/assets/images/empire fc.jpg","homeClubId":3 , "time": "16:00","awayClubId":1 , "awayLogo": "/assets/images/expensive fc.jpg", "date":"Sun 1 Feb"
+                    "matchId": 144, "homeLogo": "/assets/images/empire fc.jpg","homeClubId":3 , "time": "16:00","awayClubId":1 , "awayLogo": "/assets/images/expensive fc.jpg", "date":"Sat 31 Jan"
                 },
                 {
-                    "matchId": 145, "homeLogo": "/assets/images/super ballers fc.jpg","homeClubId": 9, "time": "15:00","awayClubId": 7, "awayLogo": "/assets/images/rising star.jpg", "enddate":"Sun 1 Feb"
+                    "matchId": 145, "homeLogo": "/assets/images/super ballers fc.jpg","homeClubId": 9, "time": "2:4","awayClubId": 7, "awayLogo": "/assets/images/rising star.jpg", "date":"Sat 31 Jan", "status":"completed", "played":true,
+                    "events":[
+                        {
+                            "type":"goal",
+                            "clubId": 1
+                            "playerId":
+                        }
+                    ]
                 }
             ]
         },
