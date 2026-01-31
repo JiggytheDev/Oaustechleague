@@ -361,7 +361,7 @@
       "clubname": "Empire FC",
       "clubLogo":"/assets/images/empire fc.jpg",
       "players": [
-        { "playerId": 301, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"" , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 301, "name": "Precious", "position": "Goalkeeper","clubId": 3, "Department":"" , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
@@ -373,37 +373,37 @@
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 303, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 303, "name": "Daniel", "position": "Defender","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 304, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 304, "name": "Postle", "position": "Defender","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 305, "name": "", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 305, "name": "Wasiu", "position": "Defender","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 306, "name": "","position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 306, "name": "Sodiq","position": "Defender","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 307, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 307, "name": "Aji", "position": "Defender","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 308, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 308, "name": "Felix", "position": "Defender","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
@@ -421,37 +421,37 @@
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 311, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 311, "name": "John", "position": "Defender","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 312, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 312, "name": "Lebron", "position": "Defender","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 313, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 313, "name": "Paddy Yo", "position": "Midfielder","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 314, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 314, "name": "Jesse", "position": "Midfielder","clubId": 3, "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 315, "name": "", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 315, "name": "Smaller", "position": "Midfielder","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 316, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 316, "name": "Skopa", "position": "Midfielder","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
@@ -463,25 +463,49 @@
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 318, "name": "Ayobami", "position": "Forward","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 318, "name": "Ayobami", "position": "Midfielder","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 319, "name": "", "position": "Goalkeeper","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 319, "name": "Honour", "position": "Forward","clubId": 3, "Department":"SMS"  , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 320, "name": "", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 320, "name": "De Coach", "position": "Forward","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
         }},
-        { "playerId": 321, "name": "", "position": "Goalkeeper","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+        { "playerId": 321, "name": "Victor", "position": "Forward","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 322, "name": "AGS", "position": "Forward","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 323, "name": "Emperor", "position": "Forward","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 324, "name": "Abass", "position": "Forward","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }},
+        { "playerId": 325, "name": "GodsPlan", "position": "Forward","clubId": 3 , "Department":"SMS" , "playerImg": "/placeholder.png", "stats": {
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
