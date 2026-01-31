@@ -142,6 +142,30 @@
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0
+        }} , 
+        { "playerId": 124, "name": "Basit", "position": "Midfielder","clubId": 1, "Department":"EEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }} , 
+        { "playerId": 125, "name": "Cannavaro", "position": "Midfielder","clubId": 1, "Department":"EEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }} , 
+        { "playerId": 126, "name": "Rahmon", "position": "Midfielder","clubId": 1, "Department":"CVE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }} , 
+        { "playerId": 127, "name": "Ola", "position": "Defender","clubId": 1, "Department":"EEE" , "playerImg": "/placeholder.png", "stats": {
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
         }}  
       ]
     },
