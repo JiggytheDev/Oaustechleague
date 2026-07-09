@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import fixturesData from '../data/LeagueFixtures.json';
 import clubsData from '../data/LeagueClubsInfo.json';
-import { calculateLeagueTable } from '../utils/leagueEngine';
+import { calculateLeagueTable } from '../utils/LeagueEngine';
 
 const LeagueTable = () => {
   const [standings, setStandings] = useState([]);
