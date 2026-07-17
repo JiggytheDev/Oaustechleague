@@ -3,7 +3,7 @@
     {
       "id": 1,
       "clubname": "Expensive FC",
-      "clubLogo": "/assets/images/expensive fc.jpg",
+      "clubLogo": "/clubsIcon/expensive-fc.jpg",
       "players": [
         { "playerId": 101, "name": "Don Chris", "position": "Goalkeeper","clubId": 1,"Department": "", "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -172,7 +172,7 @@
     {
       "id": 2,
       "clubname": "Dreco United",
-      "clubLogo": "/assets/images/dreco united.jpg",
+      "clubLogo": "/clubsIcon/dreco-united.jpg",
       "players": [
         { "playerId": 201, "name": "Coded", "position": "Defender","clubId": 2, "Department":"" , "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -353,7 +353,7 @@
     {
       "id": 3,
       "clubname": "Empire FC",
-      "clubLogo":"/assets/images/empire fc.jpg",
+      "clubLogo":"/clubsIcon/empire-fc.jpg",
       "players": [
         { "playerId": 301, "name": "Precious", "position": "Goalkeeper","clubId": 3, "Department":"" , "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -516,7 +516,7 @@
     {
       "id": 4,
       "clubname": "Golden Arrows FC",
-      "clubLogo": "/assets/images/golden arrows.jpg",
+      "clubLogo": "/clubsIcon/golden-arrows.jpg",
       "players": [
         { "playerId": 401, "name": "Onapi", "position": "Goalkeeper","clubId": 4, "Department":""  , "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -673,7 +673,7 @@
     {
       "id": 5,
       "clubname": "Legend FC",
-      "clubLogo":"/assets/images/legends fc.jpg",
+      "clubLogo":"/clubsIcon/legends-fc.jpg",
       "players": [
         { "playerId": 501, "name": "", "position": "Goalkeeper","clubId": 5, "Department":""  , "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -830,7 +830,7 @@
     {
       "id": 6,
       "clubname": "Medstar FC",
-      "clubLogo": "/assets/images/medstar fc.jpg",
+      "clubLogo": "/clubsIcon/medstar-fc.jpg",
       "players": [
         { "playerId": 601, "name": "", "position": "Goalkeeper","clubId": 6 , "Department":"" , "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -987,7 +987,7 @@
     {
       "id": 7,
       "clubname": "Rising Stars",
-      "clubLogo": "/assets/images/rising star.jpg",
+      "clubLogo": "/clubsIcon/rising-star.jpg",
       "players": [
         { "playerId": 701, "name": "Shittu", "position": "Goalkeeper","clubId": 7, "Department":"BCH"  , "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -1156,7 +1156,7 @@
     {
       "id": 8,
       "clubname": "Strikers United",
-      "clubLogo":"/assets/images/strikers united.jpg",
+      "clubLogo":"/clubsIcon/strikers-united.jpg",
       "players": [
         { "playerId": 801, "name": "Holy Jesus", "position": "Goalkeeper","clubId": 8 , "Department":"" , "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -1319,7 +1319,7 @@
     {
       "id": 9,
       "clubname": "Super Ballers FC",
-      "clubLogo": "/assets/images/super ballers.jpg",
+      "clubLogo": "/clubsIcon/super-ballers-fc.jpg",
       "players": [
         { "playerId": 901, "name": "Sunny Kay", "position": "Goalkeeper","clubId": 9 , "Department":"", "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,
@@ -1482,7 +1482,7 @@
     {
       "id": 10,
       "clubname": "YDC FC",
-      "clubLogo": "/assets/images/ydc fc.jpg",
+      "clubLogo": "/clubsIcon/ydc-fc.jpg",
       "players": [
         { "playerId": 1001, "name": "Feranmi", "position": "Goalkeeper","clubId": 10, "Department":"ICH", "playerImg": "/Photo-Missing.jpg", "stats": {
           "goals": 0,

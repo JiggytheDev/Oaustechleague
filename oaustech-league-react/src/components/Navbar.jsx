@@ -11,16 +11,16 @@ const Navbar = () => {
   return (
     <nav className="bg-blue-700 text-white shadow-md">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16 items-center">
+        <div className="flex justify-between border-4 border-b-green-400 h-16 items-center">
           {/* Logo / Brand */}
           <div className="shrink-0 flex items-center">
-            <Link to="/" className="text-xl font-bold tracking-wider">
+            {/* <Link to="/" className="text-xl font-bold tracking-wider">
               OAUSTECH <span className="text-blue-200">LEAGUE</span>
-            </Link>
+            </Link> */}
           </div>
 
           {/* Desktop Menu */}
-          <div className="hidden md:flex space-x-8">
+          <div className="hidden md:flex border-2 space-x-8">
             <Link to="/matches" className="hover:text-blue-200 transition-colors">Matches</Link>
             <Link to="/table" className="hover:text-blue-200 transition-colors">Table</Link>
             <Link to="/statistics" className="hover:text-blue-200 transition-colors">Stats</Link>

@@ -7,61 +7,61 @@
     "clubs": [
         {
             "id": 1,
-            "clubLogo": "./assets/ClubIcons/dreco united.jpg",
-            "clubname": "Dreco United",
-            "arrowIcon": "png.jpg"
-        },
-        {
-            "id": 2,
-            "clubLogo": "./assets/ClubIcons/empire fc.jpg",
-            "clubname": "Empire FC",
-            "arrowIcon": "png.jpg"
-        },
-        {
-            "id": 3,
-            "clubLogo": "./assets/ClubIcons/expensive fc.jpg",
+            "clubLogo": "/clubsIcon/expensive-fc.jpg",
             "clubname": "Expensive FC",
             "arrowIcon": "png.jpg"
         },
         {
+            "id": 2,
+            "clubLogo": "/clubsIcon/dreco-united.jpg",
+            "clubname": "Dreco United",
+            "arrowIcon": "png.jpg"
+        },
+        {
+            "id": 3,
+            "clubLogo": "/clubsIcon/empire-fc.jpg",
+            "clubname": "Empire FC",
+            "arrowIcon": "png.jpg"
+        },
+        {
             "id": 4,
-            "clubLogo": "./assets/ClubIcons/golden arrows.jpg",
+            "clubLogo": "/clubsIcon/golden-arrows.jpg",
             "clubname": "Golden Arrows FC",
             "arrowIcon": "png.jpg"
         },
         {
             "id": 5,
-            "clubLogo": "./assets/ClubIcons/legends fc.jpg",
+            "clubLogo": "/clubsIcon/legends-fc.jpg",
             "clubname": "Legend FC",
             "arrowIcon": "png.jpg"
         },
         {
             "id": 6,
-            "clubLogo": "./assets/ClubIcons/medstar fc.jpg",
+            "clubLogo": "/clubsIcon/medstar-fc.jpg",
             "clubname": "Medstar FC",
             "arrowIcon": "png.jpg"
         },
         {
             "id": 7,
-            "clubLogo": "./assets/ClubIcons/rising star.jpg",
+            "clubLogo": "/clubsIcon/rising-star.jpg",
             "clubname": "Rising Star FC",
             "arrowIcon": "png.jpg"
         },
         {
             "id": 8,
-            "clubLogo": "./assets/ClubIcons/strikers united.jpg",
+            "clubLogo": "/clubsIcon/strikers-united.jpg",
             "clubname": "Strikers United FC",
             "arrowIcon": "png.jpg"
         },
         {
             "id": 9,
-            "clubLogo": "./assets/ClubIcons/super ballers fc.jpg",
+            "clubLogo": "/clubsIcon/super-ballers-fc.jpg",
             "clubname": "Super Ballers FC",
             "arrowIcon": "png.jpg"
         },
         {
             "id": 10,
-            "clubLogo": "./assets/ClubIcons/ydc fc.jpg",
+            "clubLogo": "/clubsIcon/ydc-fc.jpg",
             "clubname": "YDC FC",
             "arrowIcon": "png.jpg"
         }

@@ -9,7 +9,7 @@ const PlayerProfile = () => {
     clubName: ''
   });
 
-  // 1. Flatten the data so we have one array of all players
+  // Flattening the data so we have one array of all players
   const allPlayers = useMemo(() => {
     return playersData.clubs.flatMap(club => 
       club.players.map(player => ({
@@ -19,7 +19,7 @@ const PlayerProfile = () => {
     );
   }, []);
 
-  // 2. Filter logic
+  // Filter logic
   const filteredPlayers = allPlayers.filter(player => {
     const matchesName = player.name.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesPosition = filters.position === '' || player.position === filters.position;

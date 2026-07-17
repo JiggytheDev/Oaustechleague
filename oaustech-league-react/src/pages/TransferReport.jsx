@@ -4,7 +4,7 @@ import clubsData from '../data/LeagueClubsInfo.json';
 
 const TransferReport = () => {
   
-  // HELPER: Find a player's name by searching through all clubs
+  // Find a player's name by searching through all clubs
   const getPlayerName = (playerId) => {
     let playerName = "Unknown Player";
     
@@ -19,22 +19,21 @@ const TransferReport = () => {
     return playerName;
   };
 
-  // HELPER: Get club name from ID
+  // Gets club name from ID
   const getClubName = (id) => {
     const club = clubsData.clubs.find(c => c.id === id);
     return club ? club.clubname : "Unknown Club";
   };
 
   return (
-    <div className="p-4 md:p-8 bg-[#11012C] min-h-screen text-white font-sans">
+    <div className="p-4 md:p-8 bg-[#11012C] min-h-screen border-2 text-white font-sans">
       <header className="mb-10">
         <h2 className="text-3xl font-black italic uppercase tracking-tighter">
-          Transfer <span className="text-blue-500">Report</span>
+          Transfer <span className="text-blue-500">Market</span>
         </h2>
-        <p className="text-gray-400 text-xs uppercase tracking-[0.2em]">OAUSTECH League Market Activity</p>
       </header>
 
-      <div className="grid gap-4 max-w-5xl">
+      <div className="grid gap-6 ">
         {marketData.transfers.map((transfer) => (
           <div 
             key={transfer.id} 
