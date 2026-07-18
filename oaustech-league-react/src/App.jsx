@@ -9,6 +9,7 @@ import PlayerProfile from '/src/pages/PlayerProfile.jsx';
 import LeagueFixtures from '/src/pages/LeagueFixtures.jsx';
 import LeagueTable from '/src/components/LeagueTable.jsx';
 import PlayerStatistics from '/src/pages/PlayerStatistics.jsx';
+import PlayerComparison from '/src/pages/PlayerComparison.jsx';
 import TransferReport from '/src/pages/TransferReport.jsx';
 
 function App() {
@@ -34,6 +35,7 @@ function App() {
                 <Link to="/transfers" className="hover:text-white transition">Transfers</Link>
                 <Link to="/clubs" className="hover:text-white transition">Clubs</Link>
                 <Link to="/players" className="hover:text-white transition">Players</Link>
+                <Link to="/compare" className="hover:text-white transition">Compare</Link>
                 
               </div>
             </div>
@@ -69,6 +71,10 @@ function App() {
             
             {/* Player Statistics */}
             <Route path="/statistics" element={<PlayerStatistics />} />
+
+            {/* Player Comparison */}
+            <Route path="/compare" element={<PlayerComparison />} />
+
             {/* Transfer News */}
             <Route path="/transfers" element={<TransferReport />} />
           </Routes>

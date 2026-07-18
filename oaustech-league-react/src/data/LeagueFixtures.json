@@ -23,17 +23,20 @@
                         {
                             "type": "goal",
                             "clubId": 9,
-                            "playerId": 902
+                            "playerId": 902,
+                            "minute": 14
                         },
                         {
                             "type": "goal",
                             "clubId": 9,
-                            "playerId": 901
+                            "playerId": 901,
+                            "minute": 43
                         },
                         {
                             "type": "goal",
                             "clubId": 9,
-                            "playerId": 902
+                            "playerId": 902,
+                            "minute": 68
                         }
                     ]
                 },
